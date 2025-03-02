@@ -1,3 +1,13 @@
+/**
+* Author: zhenan liu
+* Assignment: Pong Clone
+* Date due: 2025-3-1, 11:59pm
+* I pledge that I have completed this assignment without
+* collaborating with anyone else, in conformance with the
+* NYU School of Engineering Policies and Procedures on
+* Academic Misconduct.
+**/
+
 #define GL_GLEXT_PROTOTYPES 1
 #define LOG(argument) std::cout << argument << '\n'
 #define STB_IMAGE_IMPLEMENTATION
